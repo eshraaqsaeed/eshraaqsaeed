@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshraaqsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="eshraaqsaeed" /> </p>
 
+<img align="right" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300" />
+
 - 🌱 I’m currently learning **everything data related**:sparkles:
 
 - 📫 How to reach me **eshraqsaeed@cis.asu.edu.eg**
