@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything data related**:sparkles:
 - 📫 How to reach me **eshraqsaeed@cis.asu.edu.eg**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y8Txeexhh3GGJ_Ms1DCqjDnDcfiblqot/view?usp=sharing](https://drive.google.com/file/d/1y8Txeexhh3GGJ_Ms1DCqjDnDcfiblqot/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1y8Txeexhh3GGJ_Ms1DCqjDnDcfiblqot/view?usp=sharing](https://drive.google.com/file/d/1ocP8nJW0ex_ZtD_YlNRimInShcMUOEDl/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
